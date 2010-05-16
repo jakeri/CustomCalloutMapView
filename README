@@ -1,0 +1,4 @@
+
+
+Problems
+- The property observer is still leaking.
